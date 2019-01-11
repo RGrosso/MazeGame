@@ -10,7 +10,7 @@
   var rightPressed = false; // are we pressing RIGHT arrow key?
   var upPressed = false; // are we pressing UP arrow key?
   var downPressed = false; // are we pressing DOWN arrow key?
-  var movementSpeed = 3; // the speed we are going to move, in pixels per frame
+  var movementSpeed = 4; // the speed we are going to move, in pixels per frame
   var playerXSpeed = 0; // player horizontal speed, in pixels per frame
   var playerYSpeed = 0; // player vertical speed, in pixels per frame
 
